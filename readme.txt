@@ -1,0 +1,5 @@
+- ID utilizado Visual Code
+- usar live server para hacerlo correr
+- al cargar la pagina, se muestra por consola un resultado con valores ya definidos
+- Ingrese el valor de N y A(al ser un arreglo ingrese los valores separados por una coma)
+- Al precionar calcular se mostrar el resultado tanto por consola como en la pagina web

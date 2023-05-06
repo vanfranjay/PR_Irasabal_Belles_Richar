@@ -1,0 +1,6 @@
+- Inicializar un array de longitud N+1, llamado "counters", con todos sus elementos en cero.
+- Iniciar una variable llamada "max_counter" con valor cero.
+- Iterar sobre el array A:
+a. Si A[i] está en el rango [1, N], entonces incrementar el contador en la posición A[i] - 1 del array "counters". Si el nuevo valor del contador es mayor que "max_counter", actualizar "max_counter".
+b. Si A[i] es N+1, entonces actualizar todos los contadores del array "counters" con el valor de "max_counter".
+- Devolver el array "counters". 
